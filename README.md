@@ -12,10 +12,6 @@ This is a responsive tour exploration app built for **Coding Challenge 20**. Use
 - 🔁 Refresh button restores the full list
 - 💡 Responsive layout
 
-## 📸 Demo Preview
-
-![App Screenshot](https://via.placeholder.com/600x300.png?text=Tour+App+Demo)
-
 ## 🛠 Tech Stack
 
 - React (Vite)
